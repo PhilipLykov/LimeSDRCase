@@ -97,14 +97,16 @@ After receiving and testing, the design was updated:
 
 ## Photos
 
-Pilot photos (full set is available in `images/`):
+Pilot photos (selected highlights; full set is available in `images/`):
 
-![Pilot 01](images/1778969445349.jpg)
-![Pilot 02](images/1778969445375.jpg)
-![Pilot 03](images/1778969445397.jpg)
-![Pilot 04](images/1778969445420.jpg)
-![Pilot 05](images/1778969445446.jpg)
-![Pilot 06](images/1778969445470.jpg)
+![Pilot 833](images/1778969445833.jpg)
+![Pilot 924](images/1778969445924.jpg)
+![Pilot 759](images/1778969445759.jpg)
+![Pilot 617](images/1778969445617.jpg)
+![Pilot 540](images/1778969445540.jpg)
+![Pilot 517](images/1778969445517.jpg)
+![Pilot 470](images/1778969445470.jpg)
+![Pilot 420](images/1778969445420.jpg)
 
 ## License
 
