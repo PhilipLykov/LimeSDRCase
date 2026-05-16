@@ -45,6 +45,7 @@ RF side (SMA-IPEX):
 - Recommended: **RG113**, length **75 mm**
 - Quantity: **10 pcs** for RF ports
 - Avoid RG178 here (too stiff; risks damaging IPEX connectors)
+- 100 mm on RF side can work, but also makes enclosure assembly noticeably harder
 
 Clock side (CLOCK IN/OUT):
 
@@ -54,7 +55,8 @@ Clock side (CLOCK IN/OUT):
 ## Fasteners and assembly
 
 - Case halves: **M4x30**
-  - Thread is cut in the top half
+  - Threads are **not** pre-modeled in the CAD files
+  - User should tap threads in the top half during assembly
   - Bolts inserted from bottom
   - Bolt heads act as enclosure feet
 - LimeSDR PCB mounting: **M3x4, flat head required**
@@ -95,31 +97,20 @@ After receiving and testing, the design was updated:
 
 ## Photos
 
-Pilot photos are provided in the `images/` directory:
+Pilot photos (full set is available in `images/`):
 
-- `images/1778969445349.jpg`
-- `images/1778969445375.jpg`
-- `images/1778969445397.jpg`
-- `images/1778969445420.jpg`
-- `images/1778969445446.jpg`
-- `images/1778969445470.jpg`
-- `images/1778969445494.jpg`
-- `images/1778969445517.jpg`
-- `images/1778969445540.jpg`
-- `images/1778969445562.jpg`
-- `images/1778969445588.jpg`
-- `images/1778969445617.jpg`
-- `images/1778969445642.jpg`
-- `images/1778969445668.jpg`
-- `images/1778969445693.jpg`
-- `images/1778969445718.jpg`
-- `images/1778969445759.jpg`
-- `images/1778969445789.jpg`
-- `images/1778969445815.jpg`
-- `images/1778969445833.jpg`
-- `images/1778969445856.jpg`
-- `images/1778969445876.jpg`
-- `images/1778969445901.jpg`
-- `images/1778969445924.jpg`
-- `images/1778969445950.jpg`
+![Pilot 01](images/1778969445349.jpg)
+![Pilot 02](images/1778969445375.jpg)
+![Pilot 03](images/1778969445397.jpg)
+![Pilot 04](images/1778969445420.jpg)
+![Pilot 05](images/1778969445446.jpg)
+![Pilot 06](images/1778969445470.jpg)
+
+## License
+
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+- You may use, copy, and modify the design.
+- Commercial use and resale are not allowed without separate permission.
+- See `LICENSE` for full terms.
 

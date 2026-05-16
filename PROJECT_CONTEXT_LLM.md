@@ -25,6 +25,7 @@
   },
   "assembly_hardware": {
     "case_halves": "M4x30",
+    "threading_note": "No pre-modeled threads; user taps threads in top half.",
     "pcb_mount": "M3x4 flat head",
     "fan_mount": "M2.5 or M3 (holes modeled for M2.5)"
   },
@@ -32,7 +33,8 @@
     "rf_side": {
       "recommended_type": "RG113",
       "recommended_length_mm": 75,
-      "count": 10
+      "count": 10,
+      "note": "100 mm can work but makes assembly harder."
     },
     "clock_side": {
       "type": "RG178",
@@ -41,6 +43,7 @@
     }
   },
   "images_folder": "images/",
-  "readme": "README.md"
+  "readme": "README.md",
+  "license": "CC BY-NC 4.0"
 }
 
